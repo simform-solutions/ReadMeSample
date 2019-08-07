@@ -1,4 +1,4 @@
-xyz Technologies merges beautiful design with convenient services to electrify industries formerly dependent on fossil fuels. xyz’s turnkey power solutions deliver energy whenever and wherever it’s needed for reliable electrification beyond the electrical grid. With scalable clean power that moves to meet demand, xyz customers can tackle new applications and deploy new business models without the complexity of upgrading traditional energy infrastructure.
+xyz company is an e-commerce company based in Silicon Valley. Founded by xyz person in 2007, the company initially focused on book sales, before expanding into other product categories such as consumer electronics, fashion, and lifestyle products.
 
 # Getting Started
 xyz Web API build on top of [ASP.NET Core](https://docs.microsoft.com/aspnet/core/). platform. ASP.NET Core. is an open-source and cross-platform framework for building modern cloud based internet connected applications, such as web apps, IoT apps and mobile backends. ASP.NET Core. apps can run on .NET Core or on the full [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net472). 
